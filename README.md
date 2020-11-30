@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## I codici di Valentina
 
-You can use the [editor on GitHub](https://github.com/ValentinaSisini/ValentinaSisini.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Intelligenza artificiale, reti neurali, algoritmi genetici, informatica quantistica, sicurezza informatica
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
